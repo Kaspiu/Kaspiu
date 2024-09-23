@@ -7,9 +7,9 @@ My name is Kacper, and I'm an 18-year-old. I've been coding since 2021.
 
 ## Personal Projects
 - [Pytio](https://github.com/Kaspiu/Pytio)
-    - Simplify your life and stay organized effortlessly using Pytio app
+    - Simplify your life and stay organized effortlessly using Pytio app.
 - [Notely](https://github.com/Kaspiu/Notely)
-    - A simple website that will help you organize your life
+    - A simple website that will help you organize your life.
 - [TradeX](https://github.com/Kaspiu/TradeX)
     - A simple Trading Calendar website that will help you to stay organized.
 ## PC Specs
