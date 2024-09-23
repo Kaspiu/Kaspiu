@@ -10,6 +10,8 @@ My name is Kacper, and I'm an 18-year-old. I've been coding since 2021.
     - Simplify your life and stay organized effortlessly using Pytio app
 - [Notely](https://github.com/Kaspiu/Notely)
     - A simple website that will help you organize your life
+- [TradeX](https://github.com/Kaspiu/TradeX)
+    - A simple Trading Calendar website that will help you to stay organized.
 ## PC Specs
 ![Windows 11](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
 ![Intel i5-9400F](https://img.shields.io/badge/Intel-i5%209400F-blue?logo=intel)
