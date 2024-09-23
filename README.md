@@ -2,7 +2,7 @@
 My name is Kacper, and I'm an 18-year-old. I've been coding since 2021.
 
 ## Languages
-- **Main Language:** Javascript, HTML, CSS
+- **Main Languages:** Javascript, HTML, CSS
 - **Alternatives:** Python
 
 ## Personal Projects
