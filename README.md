@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Kacper, and I'm an 18-year-old. I've been programming since 2021.
 
 ## Languages
