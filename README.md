@@ -1,5 +1,5 @@
 # Hello! 👋
-My name is Kacper, and I'm an 18-year-old. I've been coding since 2021.
+My name is Kacper, and I'm an 18-year-old. I've been programming since 2021.
 
 ## Languages
 - **Main Languages:** JavaScript, HTML, CSS
