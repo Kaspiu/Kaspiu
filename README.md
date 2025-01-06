@@ -13,7 +13,7 @@ My name is Kacper, and I'm an 18-year-old. I've been programming since 2021.
 - [TradeX](https://github.com/Kaspiu/TradeX)
     - A simple Trading Calendar web app to help you stay organized.
 - [Assistly](https://github.com/Kaspiu/Assistly)
-    - Your AI friend in the Chrome extension
+    - Your AI friend in the Chrome extension.
 ## PC Specs
 ![Windows 11](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
 ![Intel i5-9400F](https://img.shields.io/badge/Intel-i5%209400F-blue?logo=intel)
