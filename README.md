@@ -7,9 +7,9 @@
   My name is Kacper, and I'm a 19-year-old. I've been programming since 2021.
 </h3>
 
-## Languages
+# Languages
 
-### Main Languages:
+## Main Languages:
 
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-### Alternatives:
+## Alternatives:
 
 <p align="left">
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
@@ -37,7 +37,7 @@
   </a>
 </p>
 
-## Personal Projects
+# Personal Projects
 
 - [**Pytio**](https://github.com/Kaspiu/Pytio)  
   Simplify your life and stay organized effortlessly using Pytio app.
