@@ -1,4 +1,4 @@
-# Hi, I'm Magdeline! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Kacper! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 🚀 Front-end developer expanding into full-stack development<br>💻 Proficient in React, JavaScript, HTML, and CSS<br>🌱 Currently learning mobile app development<br>🌐 Building projects that make a positive impact on users' daily lives
 
