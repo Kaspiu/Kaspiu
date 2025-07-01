@@ -1,6 +1,6 @@
 # Hi, I'm Kacper! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🚀 Front-end developer expanding into full-stack development<br>💻 Proficient in React, JavaScript, HTML, and CSS<br>🌱 Currently learning mobile app development<br>🌐 Building projects that make a positive impact on users' daily lives
+🚀 Front-end developer expanding into full-stack development<br>💻 Proficient in React, JavaScript, HTML, and CSS<br>🌐 Building projects that make a positive impact on users' daily lives
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaspiu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
