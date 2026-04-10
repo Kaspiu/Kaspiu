@@ -2,8 +2,6 @@
 
 🚀 Front-end developer expanding into full-stack development<br>💻 Proficient in React, JavaScript, HTML, and CSS<br>🌐 Building projects that make a positive impact on users' daily lives
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaspiu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 # 💻 Tech Stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
