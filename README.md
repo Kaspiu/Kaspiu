@@ -8,8 +8,8 @@ I build clean, user-focused web applications with TypeScript and modern JavaScri
 
 ### 📌 Featured Projects
 
-- **[Voton](https://voton.vercel.app/)**: privacy-first note-taking, entirely in your browser.  
-  A Notion/Obsidian-inspired note-taking app built with Next.js and React, where the entire workspace lives client-side - no servers, no accounts, no tracking.
+- **[Voton](https://voton.vercel.app/)**: local-first writing workspace for notes, pages, and portable data.  
+  A Notion/Obsidian-inspired workspace built with Next.js and React. Your data stays in the browser, with no accounts, cloud sync, analytics, or remote persistence.
 
 ---
 
