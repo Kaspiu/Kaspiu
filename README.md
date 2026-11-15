@@ -1,33 +1,53 @@
-# ✨ Kacper Mroczek
+<div align="center">
 
-**Front-End Developer | Expanding into Full-Stack**
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img alt="Kacper Mroczek - Front-End Developer, expanding into Full-Stack" src="assets/header-dark.svg" width="100%" />
+</picture>
 
-I build clean, user-focused web applications with TypeScript and modern JavaScript, increasingly with a full-stack, product-minded approach. I also work with C# and .NET, with an interest in both desktop applications with graphical interfaces and command-line tools.
-
-I care about software that respects the people using it: fast, well-designed, and private by default when it counts.
-
----
-
-### 📌 Featured Projects
-
-- **[Voton](https://voton.vercel.app/)**: local-first writing workspace for notes, pages, and portable data.  
-  A Notion/Obsidian-inspired workspace built with Next.js and React. Your data stays in the browser, with no accounts, cloud sync, analytics, or remote persistence.
+</div>
 
 ---
 
-### 🧰 Tech Stack
+### `~$ cat about.md`
 
-**Web Languages**  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+<div align="center">
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg" />
+  <img alt="About me" src="assets/about-dark.svg" width="100%" />
+</picture>
 
-**Runtimes & Ecosystems**  
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![C# / .NET](https://img.shields.io/badge/C%23%20%2F%20.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+</div>
+
+---
+
+### `~$ ls ~/projects`
+
+<div align="center">
+
+<a href="https://github.com/Kaspiu/voton-app">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/project-voton-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-voton-light.svg" />
+  <img alt="Voton project" src="assets/project-voton-dark.svg" width="100%" />
+</picture>
+</a>
+
+</div>
+
+---
+
+### `~$ cat tech-stack.toml`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img alt="Tech stack" src="assets/stack-dark.svg" width="100%" />
+</picture>
+
+</div>
