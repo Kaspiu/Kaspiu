@@ -4,11 +4,11 @@
 <path d="M0 38V12A12 12 0 0 1 12 0H818A12 12 0 0 1 830 12V38Z" fill="#f6f8fa"/>
 <line x1="0" y1="38.5" x2="830" y2="38.5" stroke="#d0d7de" stroke-width="1"/>
 <rect x="0.75" y="0.75" width="828.5" height="228.5" rx="11.25" fill="none" stroke="#d0d7de" stroke-width="1.5"/>
-<circle cx="24" cy="19" r="5.5" fill="#d0d7de"/><circle cx="44" cy="19" r="5.5" fill="#d0d7de"/><circle cx="64" cy="19" r="5.5" fill="#087f62"/>
+<circle cx="24" cy="19" r="5.5" fill="#d0d7de"/><circle cx="44" cy="19" r="5.5" fill="#d0d7de"/><circle cx="64" cy="19" r="5.5" fill="#4cf2c5"/>
 <text x="415" y="23" fill="#656d76" font-size="12" font-weight="400" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace">kacper@poland: ~</text>
-<g class="h"><text x="32" y="78" fill="#087f62" font-size="14" font-weight="400" text-anchor="start" font-family="ui-monospace, 'SFMono-Regular', Menlo, 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace">$</text><text x="48.8" y="78" fill="#424a53" font-size="14" font-weight="400" text-anchor="start" font-family="ui-monospace, 'SFMono-Regular', Menlo, 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace">whoami</text></g>
+<g class="h"><text x="32" y="78" fill="#4cf2c5" font-size="14" font-weight="400" text-anchor="start" font-family="ui-monospace, 'SFMono-Regular', Menlo, 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace">$</text><text x="48.8" y="78" fill="#424a53" font-size="14" font-weight="400" text-anchor="start" font-family="ui-monospace, 'SFMono-Regular', Menlo, 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace">whoami</text></g>
 <g class="h"><text x="32" y="136" fill="#1f2328" font-size="54" font-weight="800" text-anchor="start" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">Kacper Mroczek</text></g>
 <g class="h"><text x="32" y="164" fill="#656d76" font-size="14" font-weight="400" text-anchor="start" font-family="ui-monospace, 'SFMono-Regular', Menlo, 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace">Front-End Developer · Expanding into Full-Stack</text></g>
-<g class="h"><text x="32" y="204" fill="#087f62" font-size="14" font-weight="400" text-anchor="start" font-family="ui-monospace, 'SFMono-Regular', Menlo, 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace">$</text></g>
-<rect class="cur" x="49" y="191" width="8" height="15" fill="#087f62"/>
+<g class="h"><text x="32" y="204" fill="#4cf2c5" font-size="14" font-weight="400" text-anchor="start" font-family="ui-monospace, 'SFMono-Regular', Menlo, 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace">$</text></g>
+<rect class="cur" x="49" y="191" width="8" height="15" fill="#4cf2c5"/>
 </svg>
